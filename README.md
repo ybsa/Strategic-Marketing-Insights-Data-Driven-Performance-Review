@@ -52,11 +52,6 @@ python scripts/clean_data.py
 python scripts/eda_analysis.py
 ```
 
-**Step 3: Generate the Report**
-
-```bash
-python scripts/create_professional_report.py
-```
 
 ## Key Findings
 
@@ -64,6 +59,4 @@ python scripts/create_professional_report.py
 - **Highest Volume**: Email (but with high CPA).
 - **Seasonality**: Strong spikes in Q4, but with diminishing returns on spend.
 
-## License
 
-Confidential - Internal Use Only.
